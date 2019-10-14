@@ -18,7 +18,7 @@ A number of adjacent nodes can be connected to each port.
   
 ## Useage
 When creating a node, the type must be specified.
-The node type is defined as Enum Class in the ***Graph/NodeUtil.py*** file.
+The node type is defined as Enum Class in the [Graph/NodeUtil.py](https://github.com/lance-tech/PipelineGraph/blob/master/Graph/NodeUtil.py) file.
 
 Each node can be connected by an edge.
 The first argument passes the node that connects to the left side of the edge, and the second argument that connects to the right side of the edge.
