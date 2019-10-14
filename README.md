@@ -40,3 +40,5 @@ scene.addItem(node2)
 edge1 = Edge(node1.rightPort, node2.leftPort)
 scene.addItem(edge1)
 ```
+
+![CreatePlan](./screenshot/screenshot01.png)
